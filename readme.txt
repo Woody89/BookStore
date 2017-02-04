@@ -3,7 +3,7 @@
 1. 搭建开发环境
 	1.1 导入开发包
 		mysql驱动：
-		C3P0连接池：using hibernate to instead
+		C3P0连接池：using h
 		DBUtils开发包：
 		JSTL开发包：
 		log4j开发包：commons-fileupload-1.3.1.jar
